@@ -1,0 +1,15 @@
+module.exports = {
+  BASIC_CARD : "BasicCard",
+  BROWSE_CAROUSEL : "BrowseCarousel",
+  BROWSE_CAROUSEL_ITEM : "BrowseCarouselItem",
+  BUTTON : "Button",
+  CAROUSEL : "Carousel",
+  IMAGE : "Image",
+  LIST : "List",
+  NONE_RESPONSE : "",
+  PERMISSION : "Permission", 
+  SIGN_IN : "SignIn",
+  SIMPLE_RESPONSE : "SimpleResponse",
+  SUGGESTIONS : "Suggestions",
+  TABLE : "Table",
+}
