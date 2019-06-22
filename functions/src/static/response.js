@@ -5,4 +5,5 @@ module.exports = {
   API_REQUEST_ERROR: '5xx,',
   ERROR_RESPONSE: 'Sorry, please try again later.',
   LIST_LIMIT: 30,
+  VISIBILITY_SUGGESTIONS: ['all', 'private', 'public'],
 }
