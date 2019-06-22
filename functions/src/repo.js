@@ -58,6 +58,7 @@ module.exports = {
             title: `List of repositeries`,
             items: listData,
           });
+          ar.askUser(conv, aogResponseType.SUGGESTIONS, rsp.MAIN_SUGGESTIONS);
           return;
         },
         (error) => {
